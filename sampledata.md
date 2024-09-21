@@ -2,8 +2,8 @@
 # DravLangGuard - Sample Malaylam.
 
 
-|Class | Audio File | Text |
-|---------|------------|------|
+|Class | Audio File | Text |Translation|
+|---------|------------|------|------------|
 |Non-Hate|[Play Audio](https://github.com/Anonymous-person-01/dataset/assets/161918497/8ae3ed1e-75e1-4fab-a290-084a3ecf1ab5)  | ഒരിക്കലും ജീവിതത്തിൽ വിട്ടു കൊടുക്കരുത്. | Never give up in life. |
 |Non-Hate|[Play Audio]( https://github.com/Anonymous-person-01/dataset/assets/161918497/6e288ac7-9207-4fb1-a815-898bb39cf622) | നിങ്ങൾക്ക് സൂര്യനെപ്പോലെ തിളങ്ങണമെങ്കിൽ ആദ്യം സൂര്യനെപ്പോലെ എരിയണം.| If you want to shine like the sun, you must first burn like the sun. |
 |Gender|[Play Audio](https://github.com/Anonymous-person-01/dataset/assets/161918497/7437f229-bab6-4a40-9c43-c4f7b4f4bfbe)|എൽജിബിടി ക്യു സമൂഹം നാട്ടിൽ തല്ലിപ്പൊളി പണിയെടുക്കുകയാണ്, ലിംഗ മാറ്റാശാസ്ത്രക്രിയ പ്രോത്സാഹിപ്പിക്കുന്നു  .| LGBTQ community is doing not relevant work in the society,but promoting gender reassignment surgery.|
