@@ -108,7 +108,10 @@
 
 
 
-
+|Class | Audio File | Text |Translation|
+|---------|------------|------|-----------|
+|Non-Hate|[Play Audio](https://github.com/user-attachments/assets/876c094f-e980-40ae-96ca-c0dd131552cf)
+  |నేన్ దేవుడేంటండీ అసలు గొడవలు ఇక్కడే స్టార్ట్ అవుతాయండి, ప్రపంచమంతా నిండిపోయిన ఆ దేవుడ్ని తీస్కొచ్చి ఓ గుడికట్టి గదిలో పెట్టాలనుకోడం ఏంటండి, ఆ దేవుడ్ని నాల్గు గోడలమధ్య పెట్టేంత గొప్పోళ్ళమా అండి మీరైనా నేనైనా, గుడైన చర్చయినా  మసీదైనా ఆ దేవునికి ఆఫీస్ లెక్క, అక్కడికెళ్లి మా కష్టాలు, మా ప్రోబ్ల్మ్స్ అక్కడ అప్లికేషన్ పెట్టాలంతే అది ఆయనకెళ్తుంది ప్రార్ధించాలంతే.|  What ? I am god ? This is where the real fight starts, how can you keep a person who is full of the entire world in a small temple ? do you think you and I are that great of keeping him in between four walls, be it church or mosque, they are like a god's office, we should just go there and submit our problems as an application and hope that it will reach him.|
 
 
 
