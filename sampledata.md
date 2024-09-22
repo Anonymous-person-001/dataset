@@ -23,7 +23,7 @@
 
 
 |Class | Audio File | Text | Translation |
-|---------|------------|------|
+|---------|------------|------|---------|
 |Non-Hate|[Play Audio](https://github.com/Anonymous-person-01/dataset/assets/161918497/958a5951-e7a3-449f-8f05-2dc32fd9bec5)  |தன்னம்பிக்கை இருந்தால் எப்படி ஒரு சூழ்நிலை இருந்தாலும் ரொம்ப வெளியே வர முடியும் கெட்ட எண்ணங்கள் ரொம்ப வரும் அதுக்கு நல்ல எண்ணங்கள் மட்டுமே நினைக்கணும்.| If you have self-confidence, no matter what the situation is, you can overcome it easily. Negative thoughts will come often, but you must think only positive thoughts.| 
 |Non-Hate|[Play Audio](https://github.com/Anonymous-person-01/dataset/assets/161918497/622c553e-d3f8-4517-887b-ec5921a9fdc5) |உங்களை அதிகமாக நிராகரித்தது என்றால் மிகப்பெரிய மரியாதை உங்க வாழ்க்கையில் காத்துக் கொண்டிருக்கிறது என்பது அர்த்தம். |If you've been rejected a lot, it means great respect is waiting for you in your life.|
 |Gender|[Play Audio](https://github.com/Anonymous-person-01/dataset/assets/161918497/fa75be1e-36de-4604-82c1-3671bf8d6efb)|பசங்க வந்து 10 மணி பன்னண்டு. மணி  1 மணிக்கு. வந்தாலும் வீட்ல கேள்வி கேட்க மாட்டாங்க. அவன் பையன் அப்டினுவாங்க. |"The boys come at 10, 12, or even 1 o'clock, and no one at home will question them. They say, he's a boy,' and that's it.|
