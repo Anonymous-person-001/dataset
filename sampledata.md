@@ -22,11 +22,11 @@
 # DravLangGuard - Sample Tamil.
 
 
-|Class | Audio File | Text |
+|Class | Audio File | Text | Translation |
 |---------|------------|------|
-|Non-Hate|[Play Audio](https://github.com/Anonymous-person-01/dataset/assets/161918497/958a5951-e7a3-449f-8f05-2dc32fd9bec5)  |தன்னம்பிக்கை இருந்தால் எப்படி ஒரு சூழ்நிலை இருந்தாலும் ரொம்ப வெளியே வர முடியும் கெட்ட எண்ணங்கள் ரொம்ப வரும் அதுக்கு நல்ல எண்ணங்கள் மட்டுமே நினைக்கணும்.|
-|Non-Hate|[Play Audio](https://github.com/Anonymous-person-01/dataset/assets/161918497/622c553e-d3f8-4517-887b-ec5921a9fdc5) |உங்களை அதிகமாக நிராகரித்தது என்றால் மிகப்பெரிய மரியாதை உங்க வாழ்க்கையில் காத்துக் கொண்டிருக்கிறது என்பது அர்த்தம். |
-|Gender|[Play Audio](https://github.com/Anonymous-person-01/dataset/assets/161918497/fa75be1e-36de-4604-82c1-3671bf8d6efb)|பசங்க வந்து 10 மணி பன்னண்டு. மணி  1 மணிக்கு. வந்தாலும் வீட்ல கேள்வி கேட்க மாட்டாங்க. அவன் பையன் அப்டினுவாங்க. |
+|Non-Hate|[Play Audio](https://github.com/Anonymous-person-01/dataset/assets/161918497/958a5951-e7a3-449f-8f05-2dc32fd9bec5)  |தன்னம்பிக்கை இருந்தால் எப்படி ஒரு சூழ்நிலை இருந்தாலும் ரொம்ப வெளியே வர முடியும் கெட்ட எண்ணங்கள் ரொம்ப வரும் அதுக்கு நல்ல எண்ணங்கள் மட்டுமே நினைக்கணும்.| If you have self-confidence, no matter what the situation is, you can overcome it easily. Negative thoughts will come often, but you must think only positive thoughts.| 
+|Non-Hate|[Play Audio](https://github.com/Anonymous-person-01/dataset/assets/161918497/622c553e-d3f8-4517-887b-ec5921a9fdc5) |உங்களை அதிகமாக நிராகரித்தது என்றால் மிகப்பெரிய மரியாதை உங்க வாழ்க்கையில் காத்துக் கொண்டிருக்கிறது என்பது அர்த்தம். |If you've been rejected a lot, it means great respect is waiting for you in your life.|
+|Gender|[Play Audio](https://github.com/Anonymous-person-01/dataset/assets/161918497/fa75be1e-36de-4604-82c1-3671bf8d6efb)|பசங்க வந்து 10 மணி பன்னண்டு. மணி  1 மணிக்கு. வந்தாலும் வீட்ல கேள்வி கேட்க மாட்டாங்க. அவன் பையன் அப்டினுவாங்க. |"The boys come at 10, 12, or even 1 o'clock, and no one at home will question them. They say, he's a boy,' and that's it.|
 |Gender|[Play Audio](https://github.com/Anonymous-person-01/dataset/assets/161918497/c7504c40-20c7-4439-8e82-d0becc94e211)|இந்த பூமி சொந்தம் காத்து சொந்தம் அப்படின்னா ஒரு பர்டிகுலர் ஏரியாவுக்கு ஒரு பாட்டுகுலர் இடத்துக்கு நீங்க போகக்கூடாது ஆண்கள் அளவோடு இல்லைன்னு சொல்லும்போது உங்களுக்கு எவ்வளவு கஷ்டமா இருக்கும் அதே மாதிரி தான ஒரு பெண்ணுக்கும்.|
 |Nationality/Political|[Play Audio](https://github.com/Anonymous-person-01/dataset/assets/161918497/9c963b16-6dd9-4edf-9c16-c411605164c1)|என்ன சொல்றான் நீ மாட்டுக்கறி தினக்கூடாது அப்படிங்கிறான் பசுக்கரி தின்ன கூடாது என்று சொல்றான் உன் சுதந்திரத்தை மறுக்கிறான் இதுதான் சனாதனம் இந்த கோட்பாடு தான் அவன இழுக்குது அதனாலதான் செத்த மாட தின்றவன போய்ட்டு அடிச்சு கொல்றான் அப்போ அவனுக்கு மனிதர்களை விட செத்த மாடு உடைய வேல்யூ பெருசு.| 
 |Nationality/Political|[Play Audio](https://github.com/Anonymous-person-01/dataset/assets/161918497/a2a97c8e-f0e6-4930-9b9b-b2dd7d317d84)|கருவறையில் நின்னு பூசாரி சாமி கும்பிட்டு இருக்கான் பூஜை செய்து கொண்டே இருக்கான் சாமிகிட்டே இருக்கான் ஆனா அவங்க உடம்புல சாமி ஏற்றதே இல்லையே ஏன்னா அவனுக்கு தெரியும் கடவுள் இல்லை என்று.|
