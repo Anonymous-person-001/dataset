@@ -29,7 +29,7 @@
 |Gender|[Play Audio](https://github.com/Anonymous-person-01/dataset/assets/161918497/fa75be1e-36de-4604-82c1-3671bf8d6efb)|பசங்க வந்து 10 மணி பன்னண்டு. மணி  1 மணிக்கு. வந்தாலும் வீட்ல கேள்வி கேட்க மாட்டாங்க. அவன் பையன் அப்டினுவாங்க. |"The boys come at 10, 12, or even 1 o'clock, and no one at home will question them. They say, he's a boy,' and that's it.|
 |Gender|[Play Audio](https://github.com/Anonymous-person-01/dataset/assets/161918497/c7504c40-20c7-4439-8e82-d0becc94e211)|இந்த பூமி சொந்தம் காத்து சொந்தம் அப்படின்னா ஒரு பர்டிகுலர் ஏரியாவுக்கு ஒரு பாட்டுகுலர் இடத்துக்கு நீங்க போகக்கூடாது ஆண்கள் அளவோடு இல்லைன்னு சொல்லும்போது உங்களுக்கு எவ்வளவு கஷ்டமா இருக்கும் அதே மாதிரி தான ஒரு பெண்ணுக்கும்.|If this earth belongs to everyone, and if someone says you shouldn't go to a particular area or place, and men are not being restricted, how difficult would it feel for you? That's exactly how it feels for a woman too.|
 |Nationality/Political|[Play Audio](https://github.com/Anonymous-person-01/dataset/assets/161918497/9c963b16-6dd9-4edf-9c16-c411605164c1)|என்ன சொல்றான் நீ மாட்டுக்கறி தினக்கூடாது அப்படிங்கிறான் பசுக்கரி தின்ன கூடாது என்று சொல்றான் உன் சுதந்திரத்தை மறுக்கிறான் இதுதான் சனாதனம் இந்த கோட்பாடு தான் அவன இழுக்குது அதனாலதான் செத்த மாட தின்றவன போய்ட்டு அடிச்சு கொல்றான் அப்போ அவனுக்கு மனிதர்களை விட செத்த மாடு உடைய வேல்யூ பெருசு.| He’s saying you shouldn't eat beef, he says you shouldn’t eat cow meat. He's denying your freedom. This is what Sanatan stands for; this ideology is what drives him. That’s why he goes and kills someone who ate a dead cow. So, for him, the value of a dead cow is greater than that of human beings.|
-|Nationality/Political|[Play Audio](https://github.com/Anonymous-person-01/dataset/assets/161918497/a2a97c8e-f0e6-4930-9b9b-b2dd7d317d84)|கருவறையில் நின்னு பூசாரி சாமி கும்பிட்டு இருக்கான் பூஜை செய்து கொண்டே இருக்கான் சாமிகிட்டே இருக்கான் ஆனா அவங்க உடம்புல சாமி ஏற்றதே இல்லையே ஏன்னா அவனுக்கு தெரியும் கடவுள் இல்லை என்று.|
+|Nationality/Political|[Play Audio](https://github.com/Anonymous-person-01/dataset/assets/161918497/a2a97c8e-f0e6-4930-9b9b-b2dd7d317d84) |கருவறையில் நின்னு பூசாரி சாமி கும்பிட்டு இருக்கான் பூஜை செய்து கொண்டே இருக்கான் சாமிகிட்டே இருக்கான் ஆனா அவங்க உடம்புல சாமி ஏற்றதே இல்லையே ஏன்னா அவனுக்கு தெரியும் கடவுள் இல்லை என்று.|
 |Personal Defemation|[Play Audio](https://github.com/Anonymous-person-01/dataset/assets/161918497/317a86fe-932a-4cce-a09d-8c3ea8ca7f51)|கிரிட்டிசைஸ் பண்றனாலையோ இல்ல அவங்களோட அப்பியரன்ஸ் பத்தி பாடிய பத்தி தப்பா பேசுறனால ஒண்ணுமே கிடைக்க போறதில்லை|There is no use of  criticizing or body shaming someone.|
 |Personal Defemation|[Play Audio](https://github.com/Anonymous-person-01/dataset/assets/161918497/0bf53fc7-f743-4e96-ab79-6243895075e7)|எமோஷனல் பிளாக்மெயில் பண்ணாதீங்க பிளட் சேம் பண்ணாதீங்க பாடி ஷேமிங் பண்ணாதீங்க இப்படி பண்ணா தான் ஒரு நல்ல பொண்ணுன்னு ஒரு விபத்து எல்லாம் போட்டு வச்சு பண்ணாதீங்க.|Don't do blood shame Don't do body shaming Dont consider she is a good girl only if you do all this by planning an accident.|
 |Religion|[Play Audio](https://github.com/Anonymous-person-01/dataset/assets/161918497/a2a97c8e-f0e6-4930-9b9b-b2dd7d317d84)|கருவறையில் நின்னு பூசாரி சாமி கும்பிட்டு இருக்கான் பூஜை செய்து கொண்டே இருக்கான் சாமிகிட்டே இருக்கான் ஆனா அவங்க உடம்புல சாமி ஏற்றதே இல்லையே ஏன்னா அவனுக்கு தெரியும் கடவுள் இல்லை என்று.| The priest is standing in the sanctum, worshipping the deity, continuing the rituals, staying close to the idol. But the divine presence is not truly within him, because deep down, he knows there is no god.
@@ -85,6 +85,10 @@
 
 
 
+
+[Play Audio](https://github.com/user-attachments/assets/3c33f7ac-d5d5-4a70-8e9f-3843f8caab96) 
+
+https://github.com/user-attachments/assets/3c33f7ac-d5d5-4a70-8e9f-3843f8caab96
 
 
 
